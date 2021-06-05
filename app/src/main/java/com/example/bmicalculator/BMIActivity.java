@@ -72,7 +72,7 @@ public class BMIActivity extends AppCompatActivity {
             mbackground.setBackgroundColor(Color.RED);
             
             mimageview.setImageResource(R.drawable.crosss);
-
+            
         }
 
         else if(intbmi<16.9 && intbmi>16)
